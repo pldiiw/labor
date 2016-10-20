@@ -26,5 +26,7 @@ YYYY-MM-DD,who,what-what
 2016-10-16,val,cleanfloor-grocery
 2016-10-17,val,grocery-cooking-wiping
 2016-10-17,pld,grocery-wiping-cooking
-2016-10-18,pld,
-2016-10-18,val,
+2016-10-18,val,washdishes-cooking-cleanupdishes-wiping-trashout
+2016-10-19,pld,cleanupdishes-washdishes-wiping-cooking
+2016-10-19,val,wiping-cooking
+2016-10-20,pld,washdishes-cleanupdishes-wiping
