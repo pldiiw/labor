@@ -10,7 +10,8 @@ YYYY-MM-DD,who,what-what
 2016-10-03,val,grocery-cooking-washdishes
 2016-10-03,pld,washdishes-wiping-cooking-cleanupdishes
 2016-10-04,val,2cooking-grocery
-2016-10-04,pld,2washdishes-2wiping-cooking 2016-10-05,val,grocery
+2016-10-04,pld,2washdishes-2wiping-cooking
+2016-10-05,val,grocery
 2016-10-05,pld,grocery-washdishes-wiping
 2016-10-06,pld,cooking-washdishes-wiping
 2016-10-07,pld,washdishes
@@ -45,3 +46,9 @@ YYYY-MM-DD,who,what-what
 2016-11-02,val,grocery-cleanupdishes
 2016-11-02,pld,grocery-washdishes-cooking-wiping
 2016-11-04,pld,wiping-washdishes-cleanupdishes-trashout
+2016-11-07,val,cooking-wiping
+2016-11-08,pld,cooking-washdishes
+2016-11-08,val,wiping
+2016-11-09,val,wiping-cleanbathroom-cleanfloor
+2016-11-09,pld,wiping-cleanbathroom-cleanfloor-washdishes-cleanupdishes
+2016-11-10,pld,wiping-cooking-washdishes-cleanupdishes
