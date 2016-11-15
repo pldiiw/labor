@@ -52,3 +52,9 @@ YYYY-MM-DD,who,what-what
 2016-11-09,val,wiping-cleanbathroom-cleanfloor
 2016-11-09,pld,wiping-cleanbathroom-cleanfloor-washdishes-cleanupdishes
 2016-11-10,pld,wiping-cooking-washdishes-cleanupdishes
+2016-11-11,val,cooking-cleanupdishes-cleanfloor
+2016-11-11,pld,washdishes-wiping-cleanupdishes
+2016-11-12,pld,cleanupdishes-wiping
+2016-11-12,val,grocery
+2016-11-14,pld,cooking-grocery-trashout
+2016-11-14,val,trashout-cleanfloor-washdishes-tidylivingroom-wiping
