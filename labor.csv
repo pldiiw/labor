@@ -65,4 +65,10 @@ YYYY-MM-DD,who,what-what
 2016-11-17,pld,cooking-cleanupdishes
 2016-11-18,val,washdishes-wiping
 2016-11-21,val,cleanfloor
-2016-11-21,pld,grocery-cooking-washdishes-cleanupdishes
+2016-11-21,pld,grocery-cooking-washdishes-cleanupdishes-wiping
+2016-11-22,pld,grocery-cooking
+2016-11-22,val,cooking
+2016-11-23,pld,cooking-washdishes-wiping
+2016-11-23,val,cleanupdishes
+2016-11-24,pld,cooking
+2016-11-24,val,cooking
