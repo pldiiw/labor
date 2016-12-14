@@ -85,3 +85,14 @@ YYYY-MM-DD,who,what-what
 2016-12-05,val,cooking-grocery
 2016-12-06,val,cooking-cleanupdishes
 2016-12-06,pld,washdishes-wiping
+2016-12-07,pld,grocery-wiping
+2016-12-07,val,cooking-washdishes
+2016-12-08,pld,grocery-cooking-washdishes-wiping
+2016-12-08,val,cooking
+2016-12-09,pld,wiping-cleanupdishes
+2016-12-11,val,cleanfloor
+2016-12-12,pld,cooking-bread
+2016-12-12,val,cooking
+2016-12-13,pld,cooking-washdishes-wiping-cleanupdishes
+2016-12-13,val,bread
+2016-12-14,pld,wiping-cleanupdishes
